@@ -1,0 +1,11 @@
+{
+  "name": "task-notepad",
+  "version": "1.0.0",
+  "description": "一个简洁现代的任务记事本应用",
+  "scripts": {
+    "deploy": "gh-pages -d . -f"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
