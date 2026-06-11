@@ -1,7 +1,7 @@
 {
-  "name": "todo-app",
+  "name": "task-notepad",
   "version": "1.0.0",
-  "description": "一个简洁现代的待办事项应用",
+  "description": "一个简洁现代的任务记事本应用",
   "scripts": {
     "deploy": "gh-pages -d ."
   },
